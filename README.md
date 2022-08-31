@@ -3,8 +3,8 @@
 
 
 <span>
-<a href="https://www.udemy.com/"><img src="JS.png" style="width:200px;height:180px;"></a>
-<a href="https://www.udemy.com/"><img align="right"src="Java.jpg" style="width:200px;height:180px;"></a>
+<a href="https://www.udemy.com/" target="_blank"><img src="JS.png" style="width:200px;height:180px;"></a>
+<a href="https://www.udemy.com/" target="_blank"><img align="right"src="Java.jpg" style="width:200px;height:180px;"></a>
 </span>
 
 
