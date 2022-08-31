@@ -1,5 +1,5 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
-> In progress to learning JS n Java
+> In progress to learning JS and Java
 > 
 
 
