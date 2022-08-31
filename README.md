@@ -3,7 +3,7 @@
 
 <span>
 <img src="JS.png" style="width:200px;height:180px;">
-<img src="Java.jpg" style="width:200px;height:180px;">
+<img align="right"src="Java.jpg" style="width:200px;height:180px;">
 </span>
 
 
