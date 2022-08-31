@@ -1,6 +1,6 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
 <span> 
-  <img src="image.gif">
+  <img src="image.gif" height="50px" width="50px">
 </span>
 <p></p>
 <h1 align="center">In progress to learning JS and Java</h1>
