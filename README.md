@@ -1,5 +1,5 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
-> [x] In progress to learning JS\
+> [x] \In progress to learning JS
 
 
 
