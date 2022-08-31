@@ -1,7 +1,6 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
-<p align="center";>                                             
 <h1 align="center">In progress to learning JS and Java</h1>
-<p>
+
 
 <span>
 <img src="JS.png" style="width:200px;height:180px;">
