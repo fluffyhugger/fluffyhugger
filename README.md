@@ -1,7 +1,7 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
 > In progress to learning JS and Java
-<img src="AddsomeInfo/JS.png" style="width:150px;">
-<img src="AddsomeInfo/Java.jpg" style="width:150px;">
+<img src="JS.png" style="width:150px;">
+<img src="Java.jpg" style="width:150px;">
 
 
 
