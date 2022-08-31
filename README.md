@@ -1,6 +1,5 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
-> 18 YRS
-> In progress to learning JS
+> [x]In progress to learning JS
 
 
 
