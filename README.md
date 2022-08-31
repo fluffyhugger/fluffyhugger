@@ -1,8 +1,8 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
 > In progress to learning JS and Java
 <span>
-<img src="JS.png" style="width:150px;height:150px;">
-<img src="Java.jpg" style="width:150px;height:150px;">
+<img src="JS.png" style="width:200px;height:150px;">
+<img src="Java.jpg" style="width:200px;height:150px;">
 </span>
 
 
