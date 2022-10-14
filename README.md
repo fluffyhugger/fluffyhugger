@@ -15,7 +15,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluffyhugger&theme=outrun&show_icons=true)](https://github.com/Sirapob/github-readme-stats)
 <br>
 
-<a href="https://www.udemy.com" target="_blank"><img align="left"src="Java.jpg" style="width:200px;height:180px;"></a>
 
 
   
