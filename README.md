@@ -13,4 +13,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluffyhugger&theme=outrun&show_icons=true)](https://github.com/Sirapob/github-readme-stats)
+<br>
+<img src="cat.gif" height="100px" width="100px">
   
