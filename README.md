@@ -4,7 +4,8 @@
 </span>
 <p></p>
 
-<script src="https://tryhackme.com/badge/1494782"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/fluffyhugger.png" alt="TryHackMe">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluffyhugger&theme=outrun&show_icons=true)](https://github.com/Sirapob/github-readme-stats)
 
