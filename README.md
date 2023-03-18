@@ -26,6 +26,7 @@
 <img src="Tools/vs.png" alt="vs" height="50" width="60" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=fluffyhugger&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
