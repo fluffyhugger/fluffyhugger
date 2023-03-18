@@ -10,7 +10,7 @@
 ###  👨‍💻  Programming languages
 
 <p align ="left">
-<img src="Programming Language/java.png" alt="Java" height="50" width="60" />
+<img src="Programming Language/java.png" alt="Java" height="50" width="55" />
 <img src="Programming Language/js.png" alt="js" height="50" width="60" />
 <img src="Programming Language/python.png" alt="python" height="50" width="60" />
 </p>
