@@ -26,7 +26,9 @@
 <img src="Tools/vs.png" alt="vs" height="50" width="60" />
 <img src="Tools/mysql.png" alt="mysql" height="50" width="60" />
 </p>
+
 ###  👨‍💻  Programming languages that i less familiar with
+
 <p align ="left">
 <img src="Programming Language/golang.png" alt="go" height="50" width="60" />
 <img src="Programming Language/sql.png" alt="sql" height="50" width="60" />
