@@ -1,6 +1,6 @@
 **( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
 <span> 
-  <img src="200w.gif" height="80px" width="80px">
+  <img src="200w.gif" height="40px" width="30px">
 </span>
 
 ## I'm Interested in Backend Developer 
