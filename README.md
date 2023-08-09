@@ -1,45 +1,29 @@
-**( ͡° ͜ʖ ͡°) Hi,  I’m ~~Sirapob~~**
-<span> 
-  <img src="200w.gif" height="40px" width="45px">
-</span>
 
-## I'm Interested ....
+
 
 <p align="center">
   <img src="giphy.gif" height="500px" width="500px">
 </p>
 
+<h1 align="center">Hi 👋, I'm Sirapob</h1>
+<span> 
+  <img src="200w.gif" height="40px" width="45px">
+</span>
+<h3 align="center">A passionate interested in backend developer</h3>
 
-<h1>Here is my skill 👇</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fluffyhugger&label=Profile%20views&color=0e75b6&style=flat" alt="fluffyhugger" /> </p>
 
-###  👨‍💻  Programming languages
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluffyhugger" alt="fluffyhugger" /></a> </p>
 
-<p align ="left">
-<img src="Programming Language/java.png" alt="Java" height="40" width="35" />
-<img src="Programming Language/js.png" alt="js" height="40" width="35" />
-<img src="Programming Language/python.png" alt="python" height="40" width="35" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-##   🔧   Tools that i use
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align ="left">
-<img src="Tools/Kali.jpg" alt="kali" height="50" width="60" />
-<img src="Tools/figma.png" alt="js" height="50" width="60" />
-<img src="Tools/ij.png" alt="ij" height="50" width="60" />
-<img src="Tools/netbean.png" alt="netbeans" height="50" width="60" />
-<img src="Tools/pc.png" alt="pc" height="50" width="60" />
-<img src="Tools/vs.png" alt="vs" height="50" width="60" />
-<img src="Tools/mysql.png" alt="mysql" height="50" width="60" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fluffyhugger&show_icons=true&locale=en" alt="fluffyhugger" /></p>
 
-###  👨‍💻  Programming languages that i less familiar with
-
-<p align ="left">
-<img src="Programming Language/golang.png" alt="go" height="50" width="60" />
-<img src="Programming Language/sql.png" alt="sql" height="50" width="60" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fluffyhugger&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
