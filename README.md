@@ -5,10 +5,10 @@
   <img src="giphy.gif" height="500px" width="500px">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sirapob</h1>
-<span> 
+<h1 align="center">Hi 👋, I'm Sirapob <span> 
   <img src="200w.gif" height="40px" width="45px">
-</span>
+</span></h1>
+
 <h3 align="center">A passionate interested in backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluffyhugger&label=Profile%20views&color=0e75b6&style=flat" alt="fluffyhugger" /> </p>
