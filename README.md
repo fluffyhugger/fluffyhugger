@@ -23,7 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fluffyhugger&show_icons=true&locale=en" alt="fluffyhugger" /></p>
 
+<h2 align="center">My competetion</h2>
 
+https://www.figma.com/proto/Xn1O5Iwox8fYERHfhCjMHP/Project?node-id=0%3A1
 
 
 
