@@ -9,8 +9,6 @@
   <img src="200w.gif" height="40px" width="45px">
 </span></h1>
 
-<h3 align="center">A passionate interested in backend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluffyhugger&label=Profile%20views&color=0e75b6&style=flat" alt="fluffyhugger" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluffyhugger" alt="fluffyhugger" /></a> </p>
